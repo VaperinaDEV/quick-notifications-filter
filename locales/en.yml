@@ -1,0 +1,6 @@
+en:
+  notifilter:
+    all: "All"
+    all_title: "Show all notifications"
+    unread: "Unread"
+    unread_title: "Show unread notifications"

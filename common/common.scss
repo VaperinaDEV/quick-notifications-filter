@@ -1,0 +1,24 @@
+.user-menu #quick-access-notifications {
+  padding-top: 0;
+  .quick-notifications-filter {
+    display: flex;
+    margin: 0.25em 0;
+    button {
+      margin: 0.25em;
+      flex: 1;
+      color: var(--primary-high);
+      background: var(--primary-very-low);
+      &:hover,
+      &:focus {
+        background: var(--primary-low);
+        color: var(--primary);
+      }
+      &:first-child {
+        margin-left: 0;
+      }
+      &:nth-child(2) {
+        margin-right: 0;
+      }
+    }
+  }
+}
