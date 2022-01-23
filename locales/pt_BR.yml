@@ -1,0 +1,8 @@
+pt_BR:
+  notifilter:
+    all: "Notificações"
+    all_title: "Mostrar todas as notificações"
+    unread: "Não lidas"
+    unread_title: "Notificações não lidas"
+    no_notifications_title: "Você não tem novas notificações"
+    no_notifications_link: "Veja todas as suas notificações"
