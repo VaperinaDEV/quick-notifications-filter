@@ -1,3 +1,5 @@
+// Quick Notifications filter buttons
+
 .user-menu #quick-access-notifications {
   padding-top: 0;
   .quick-notifications-filter {
@@ -19,6 +21,20 @@
       &:nth-child(2) {
         margin-right: 0;
       }
+    }
+  }
+}
+
+// No Unread Notifications Message
+
+.empty-state.notifilter {
+  align-items: center;
+  gap: 0.75em;
+  .empty-state-icon {
+    margin-top: 0.75em;
+    svg {
+      width: 110px;
+      height: 110px;
     }
   }
 }
