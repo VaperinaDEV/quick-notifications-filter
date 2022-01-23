@@ -1,0 +1,8 @@
+hu:
+  notifilter:
+    all: "Összes"
+    all_title: "Összes értesítés"
+    unread: "Olvasatlan"
+    unread_title: "Olvasatlan értesítések"
+    no_notifications_title: "Nincsenek új értesítéseid"
+    no_notifications_link: "Összes értesítés megtekintése"
