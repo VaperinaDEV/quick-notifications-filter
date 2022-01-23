@@ -1,6 +1,8 @@
 en:
   notifilter:
     all: "All"
-    all_title: "Show all notifications"
+    all_title: "All notifications"
     unread: "Unread"
-    unread_title: "Show unread notifications"
+    unread_title: "Unread notifications"
+    no_notifications_title: "You have no new notifications"
+    no_notifications_link: "See your all notifications"
